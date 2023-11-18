@@ -1,0 +1,32 @@
+#navegacao{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: center;
+    gap: 40px;
+    font-size: 24px;
+}
+
+li a{
+    color: #FFFFFF;
+    text-decoration: none;
+    font-weight: lighter;
+
+}
+
+.Mconta:link{
+    font-weight: bolder;
+}
+
+#navegacao a:hover{
+    font-weight: bold;
+}
+
+#dadosUser{
+    display: flex;
+    justify-content: center;
+}
+
+.areaUm img{
+    border-radius: 45px;
+}
